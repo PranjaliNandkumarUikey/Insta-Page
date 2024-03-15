@@ -1,4 +1,4 @@
-<img src= "![alt text](image/profilepage.png)">
+<img src= "image\profilepage.png">
 
 # Instagram Profile Clone
 This project is a clone of the Instagram profile page created using HTML and CSS. It create the layout and design of the Instagram profile page.
